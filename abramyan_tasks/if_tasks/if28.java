@@ -1,5 +1,8 @@
+<<<<<<< HEAD:abramyan_tasks/if_tasks/if28.java
 package if_tasks;
 
+=======
+>>>>>>> origin/main:if/if28.java
 import java.util.Scanner;
 
 public class if28 {
