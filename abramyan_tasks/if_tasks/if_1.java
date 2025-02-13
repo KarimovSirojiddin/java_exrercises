@@ -1,3 +1,5 @@
+package if_tasks;
+
 import java.util.Scanner;
 
 public class if_1 {
